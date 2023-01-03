@@ -1029,7 +1029,7 @@ Backups are stored in Xiaomi Cloud and can be accessed wirelessly. This method i
 <string name="barrage_enhancement_summary">在视频软件开启弹幕显示的情况下支持超级影院模式</string>
 <string name="barrage_enhancement_title">弹幕增强</string>
 <string name="baseband_version">Baseband version</string>
-<string name="based_on_miui">Based on MIUI 13 Globalized by ONE Team</string>
+<string name="based_on_miui">Based on MIUI 13</string>
 <string name="batch_delete_saved_network">Delete selected networks: %s?</string>
 <string name="batch_delete_saved_networks">Delete all selected networks</string>
 <string name="battery_action_app_details">App info</string>

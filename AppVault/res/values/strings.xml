@@ -35,10 +35,10 @@
 <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
 <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
 <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-<string name="brvah_load_complete">点击加载更多</string>
-<string name="brvah_load_end">没有更多数据</string>
-<string name="brvah_load_failed">加载失败，请点我重试</string>
-<string name="brvah_loading">正在加载中...</string>
+<string name="brvah_load_complete">Click to load more</string>
+<string name="brvah_load_end">no more data</string>
+<string name="brvah_load_failed">Failed to load, please click me to try again</string>
+<string name="brvah_loading">Loading...</string>
 <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
 <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
 <string name="character_counter_pattern">%1$d/%2$d</string>

@@ -33,8 +33,8 @@
 <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
 <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
 <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
-<string name="accessibility_ad_close">关闭推荐内容</string>
-<string name="accessibility_webview_share">分享</string>
+<string name="accessibility_ad_close">Turn off recommended content</string>
+<string name="accessibility_webview_share">share</string>
 <string name="act_find_city_hint">Enter location</string>
 <string name="act_find_city_hot_attractions_title">Popular sites</string>
 <string name="act_find_city_hot_city_title">Popular cities</string>
@@ -125,10 +125,10 @@
 <string name="button_settings_confirm_to_revoke_msg">"You won't be able to use Weather after revoking authorization."</string>
 <string name="button_settings_confirm_to_revoke_title">Revoke authorization?</string>
 <string name="button_sure_abandon">Discard changes?</string>
-<string name="card_item_ad_permission_text_view">权限</string>
-<string name="card_item_ad_policy_text_view">隐私</string>
-<string name="card_item_ad_text">广告</string>
-<string name="card_item_ad_version_text_view">版本：</string>
+<string name="card_item_ad_permission_text_view">permissions</string>
+<string name="card_item_ad_policy_text_view">privacy</string>
+<string name="card_item_ad_text">advertise</string>
+<string name="card_item_ad_version_text_view">Version：</string>
 <string name="card_vote_item_vs">VS</string>
 <string name="change_alert">Check your network connection and try again</string>
 <string name="china_version_first_start_network_msg">"You need to agree to Xiaomi's %1$s and %2$s to be able to use Weather. Weather needs to access your location and connect to the internet to work normally. Agree?"</string>
@@ -215,7 +215,7 @@
 <string name="content_desc_city_manage_edit">Edit</string>
 <string name="content_desc_close_button">Close</string>
 <string name="copy">Copy</string>
-<string name="daily_ad_index_item_experience_now">前往查看</string>
+<string name="daily_ad_index_item_experience_now">Go to view</string>
 <string name="daily_forcast_no_stable_direction">Breeze</string>
 <string name="daily_forcast_no_wind">0</string>
 <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
@@ -392,21 +392,21 @@ Read and agree to the new version of %2$s before you continue."</string>
 <string name="hourly_forecast_date">M/d</string>
 <string name="hourly_forecast_title_24_hours_desc">24-hour forecast</string>
 <string name="hourly_forecast_title_hourly_desc">Hourly forecast</string>
-<string name="index_item_download_pause">继续下载</string>
-<string name="index_item_download_pause_type_e">"继续
-下载"</string>
-<string name="index_item_downloading">正在下载</string>
-<string name="index_item_downloading_type_e">"正在
-下载"</string>
+<string name="index_item_download_pause">continue downloading</string>
+<string name="index_item_download_pause_type_e">"continue
+download"</string>
+<string name="index_item_downloading">downloading</string>
+<string name="index_item_downloading_type_e">"is
+download"</string>
 <string name="index_item_experience_now">Install now</string>
-<string name="index_item_experience_now_type_e">"立即
-体验"</string>
-<string name="index_item_install_dialog">%1$s下载并安装成功,是否立即体验?</string>
+<string name="index_item_experience_now_type_e">"immediately
+to experience"</string>
+<string name="index_item_install_dialog">%1$s Download and install successfully, whether to experience it immediately?</string>
 <string name="index_item_install_dialog_cancel" />
 <string name="index_item_install_dialog_open" />
 <string name="index_item_install_now">Install now</string>
 <string name="index_item_installing">Installing</string>
-<string name="index_item_installing2">正在安装</string>
+<string name="index_item_installing2">Installing</string>
 <string name="index_item_installing2_type_e">"正在
 安装"</string>
 <string name="indices_desc_humidity">Humidity %1$s%%</string>
@@ -449,7 +449,7 @@ Tap the screen to manually add or reposition city"</string>
 <string name="minute_rain_let_go_refresh">Release to refresh</string>
 <string name="minute_rain_no_data">No data</string>
 <string name="minute_rain_now">Now</string>
-<string name="minute_rain_probability">降水概率%1$d%%</string>
+<string name="minute_rain_probability">Precipitation probability%1$d%%</string>
 <string name="minute_rain_progress_indicator_original_time">- -</string>
 <string name="minute_rain_pull_down_refresh">Pull down to refresh</string>
 <string name="minute_rain_refreshing_now">Refreshing…</string>
@@ -523,16 +523,16 @@ Tap the screen to manually add or reposition city"</string>
 <string name="network_not_available">"Can't connect to the network"</string>
 <string name="network_unavailable">"Can't connect to the network."</string>
 <string name="news_hour_minute_time_format">yyyy-MM-dd HH:mm</string>
-<string name="news_load_more_default">上拉刷新</string>
-<string name="news_load_more_failed">网络不可用，请检查网络后重试</string>
-<string name="news_load_more_loading">正在刷新</string>
-<string name="news_load_more_no_data">仅展示最近48小时的资讯</string>
-<string name="news_refresh_loading">正在载入</string>
-<string name="news_refresh_pull_to_refresh">下拉刷新</string>
-<string name="news_refresh_release_to_refresh">松开刷新</string>
-<string name="news_tips_net_error">网络不可用，请检查网络后重试</string>
-<string name="news_tips_no_data">暂无更多新资讯</string>
-<string name="news_tips_success">已更新%1$d条资讯</string>
+<string name="news_load_more_default">Pull to refresh</string>
+<string name="news_load_more_failed">The network is unavailable, please check the network and try again</string>
+<string name="news_load_more_loading">Refreshing</string>
+<string name="news_load_more_no_data">Only show the latest 48 hours of information</string>
+<string name="news_refresh_loading">loading</string>
+<string name="news_refresh_pull_to_refresh">Pull down to refresh</string>
+<string name="news_refresh_release_to_refresh">Release to refresh</string>
+<string name="news_tips_net_error">The network is unavailable, please check the network and try again</string>
+<string name="news_tips_no_data">No more new information</string>
+<string name="news_tips_success">%1$d messages updated</string>
 <string name="night">Evening</string>
 <string name="night_not_disturb_settings_summary">Block alerts between 23:00 and 7:00</string>
 <string name="night_not_disturb_settings_title">"Don't disturb at night"</string>
@@ -542,11 +542,11 @@ Tap the screen to manually add or reposition city"</string>
 <string name="non_wifi_environment">Connect to Wi-Fi to download audio effects</string>
 <string name="noon">Midday</string>
 <string name="not_set">Not set</string>
-<string name="open">立即打开</string>
+<string name="open">open now</string>
 <string name="open_browser">Open in browser</string>
 <string name="open_now">Open</string>
-<string name="open_type_e">"立即
-打开"</string>
+<string name="open_type_e">"immediately
+Open"</string>
 <string name="other_settings">Other settings</string>
 <string name="other_warning_settings">Other alerts</string>
 <string name="pad_keyboard_add_city">Add location</string>
@@ -627,8 +627,8 @@ Tap the screen to manually add or reposition city"</string>
 <string name="setting_allowed">Granted</string>
 <string name="setting_confirm_to_revoke_permission_msg">"If you continue, you'll withdraw your consent to the Privacy Policy of Weather. We will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Weather provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Weather services. Withdraw consent now?"</string>
 <string name="setting_confirm_to_revoke_permission_title">Withdrawal of consent</string>
-<string name="setting_content_promotion">内容推广</string>
-<string name="setting_experience_plan_title">用户体验计划</string>
+<string name="setting_content_promotion">content promotion</string>
+<string name="setting_experience_plan_title">User Experience Program</string>
 <string name="setting_get_location">Access location</string>
 <string name="setting_not_allowed">Not granted</string>
 <string name="setting_permission_description">Permissions details</string>
@@ -637,9 +637,9 @@ Tap the screen to manually add or reposition city"</string>
 <string name="setting_read_and_write_phone_storage">Access storage</string>
 <string name="setting_read_privacy_policy">View Privacy Policy</string>
 <string name="setting_share_weather_need">For sharing images with weather info</string>
-<string name="setting_today_news">今日资讯卡片</string>
+<string name="setting_today_news">Today's Info Card</string>
 <string name="setting_used_to_display_weather">For displaying relevant weather info</string>
-<string name="setting_weather_video">天气视频卡片</string>
+<string name="setting_weather_video">Weather Video Cards</string>
 <string name="settings">Settings</string>
 <string name="share">Share</string>
 <string name="share_button">Share</string>
@@ -792,8 +792,8 @@ Tap the screen to manually add or reposition city"</string>
 <string name="warning_weather_day_and_night_settings_title">Daily summaries</string>
 <string name="weather_alert_channel_name">Alerts</string>
 <string name="weather_introduce">Always with you, rain or shine.</string>
-<string name="weather_list_info">相关资讯</string>
-<string name="weather_list_title">天气头条</string>
+<string name="weather_list_info">relevant information</string>
+<string name="weather_list_title">weather headlines</string>
 <string name="weather_main_aqi_desc">AQI</string>
 <string name="weather_main_minute_hour">2-hour precipitation</string>
 <string name="weather_main_speak_tips">点击可语音播报天气</string>
