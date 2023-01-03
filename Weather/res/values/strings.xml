@@ -637,7 +637,7 @@ Open"</string>
 <string name="setting_read_and_write_phone_storage">Access storage</string>
 <string name="setting_read_privacy_policy">View Privacy Policy</string>
 <string name="setting_share_weather_need">For sharing images with weather info</string>
-<string name="setting_today_news">Today's Info Card</string>
+<string name="setting_today_news">"Today's Info Card"</string>
 <string name="setting_used_to_display_weather">For displaying relevant weather info</string>
 <string name="setting_weather_video">Weather Video Cards</string>
 <string name="settings">Settings</string>
