@@ -4,4 +4,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-appvault \
 	treble-overlay-messaging \
 	treble-overlay-weather \
+	treble-overlay-bsaccount \
 
